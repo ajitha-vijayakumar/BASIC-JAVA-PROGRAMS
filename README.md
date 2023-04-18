@@ -4,3 +4,6 @@ PROGRAM 1 : Find the divisors of given number .
 
 PROGRAM 2 : Find the count of divisors of a given number.
 [solution filename : Divisorcount.java]
+
+PROGRAM 3 : Find whether the given number is a prime number or not.
+[solution filename : Findprime.java]

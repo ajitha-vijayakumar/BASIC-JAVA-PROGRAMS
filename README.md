@@ -7,3 +7,6 @@ PROGRAM 2 : Find the count of divisors of a given number.
 
 PROGRAM 3 : Find whether the given number is a prime number or not.
 [solution filename : Findprime.java]
+
+PROGRAM 4 : Find the multiples of given number in table format.
+[solution filename : Findmultiples.java]
